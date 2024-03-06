@@ -126,3 +126,79 @@
   width: 18px;
   height: 24px;
 }
+
+.section-header-style {
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 38px;
+  letter-spacing: -0.5px;
+  text-align: center;
+  color: rgba(5, 0, 56, 1);
+}
+
+.section-para-style {
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgba(5, 0, 56, 1);
+}
+
+.background-image-set {
+  background-image: url(./images/section3.png);
+  height: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navtab-item-style {
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(5, 0, 56, 1);
+  padding: 13px 32.52px 15px 18px;
+  transition: background-color 0.3s;
+}
+.navtab-container .navtab-item-style:hover {
+  background-color: rgba(241, 243, 253, 1);
+}
+
+.tab-section-header {
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(5, 0, 56, 1);
+}
+
+.tab-section-para {
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(5, 0, 56, 0.7);
+}
+.list-text-style {
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(5, 0, 56, 0.6);
+  margin-left: 10px;
+}
+
+.list-item-style {
+  width: 308px;
+}
