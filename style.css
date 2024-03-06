@@ -104,3 +104,25 @@
   padding: 23px 22.39px 44px 24px;
   gap: 29px;
 }
+
+.link-style {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(66, 98, 255, 1);
+}
+
+.arrow-style {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(66, 98, 255, 1);
+  width: 18px;
+  height: 24px;
+}
